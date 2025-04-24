@@ -13,9 +13,9 @@
 <h2 style="font-size: 10px;">Olá! 👋 Sou Ylson Santos</h2>
 
 <ul>
-  <li>💻 Expertise em: Desenvolvimento web com foco em front-end e back-end, usando tecnologias como Python, JavaScript, HTML, CSS e React.</li>
+  <li>💻 Expertise em: Desenvolvimento Full-Stack, usando tecnologias como Python, JavaScript, HTML, CSS, React, Java, etc.</li>
   <li>🌱 Com projetos acadêmicos e pessoais já realizados, busco unir minha base científica à criação de experiências digitais significativas.</li>
-  <li>🌍 Interesses em: Tecnologia voltada para a educação, impacto social e conscientização financeira.</li>
+  <li>🌍 Interesse em tecnologia com propósito: educação digital, impacto social e transformação de realidades através do conhecimento.</li>
   <li>🔥 Entusiasta de boas práticas de código, aprendizado contínuo e da construção de sistemas que realmente façam a diferença.</li>
   <li>🤝 Sempre aberto a novos desafios, colaborações criativas e conexões com pessoas que acreditam no poder da tecnologia transformadora.</li>
 </ul>
