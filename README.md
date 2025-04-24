@@ -6,11 +6,11 @@
 
 ---
 
-<h1 align="center">Seja bem-vindo(a) ao meu GitHub!</h1>
+<h1 align="center">👩‍💻 Seja bem-vindo(a) ao meu GitHub!</h1>
 <p align="center"><i>Biomédico | Desenvolvedor Full-Stack</i></p>
 
 
-<h2 style="font-size: 10px;">Olá! 👋 Sou o Ylson Santos/h2>
+<h2 style="font-size: 10px;">Olá! 👋 Sou Ylson Santos</h2>
 
 <ul>
   <li>💻 Expertise em: Desenvolvimento web com foco em front-end e back-end, usando tecnologias como Python, JavaScript, HTML, CSS e React.</li>
