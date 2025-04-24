@@ -2,7 +2,7 @@
                      
 --- 
                      
-<h1 align="center"> 👩‍💻 Seja bem-vindo(a) ao meu GitHub! <h1/>
+<h1 align="center">Seja bem-vindo(a) ao meu GitHub! <h1/>
 <p align="center"><i>Biomédico | Desenvolvedor Full-Stack</i></p>
 
 <h2 style="font-size: 10px;">Olá! 👋 Sou o Ylson Santos, biomédico formado e estudante de Análise e Desenvolvimento de Sistemas na CESAR School</h2>
