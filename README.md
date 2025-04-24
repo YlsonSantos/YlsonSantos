@@ -10,7 +10,7 @@
 <p align="center"><i>Biomédico | Desenvolvedor Full-Stack</i></p>
 
 
-<h2 style="font-size: 10px;">Olá! 👋 Sou o Ylson Santos, biomédico formado e estudante de Análise e Desenvolvimento de Sistemas na CESAR School</h2>
+<h2 style="font-size: 10px;">Olá! 👋 Sou o Ylson Santos, Biomédico e Desenvolvedor Full-Stack</h2>
 
 <ul>
   <li>💻 Expertise em: Desenvolvimento web com foco em front-end e back-end, usando tecnologias como Python, JavaScript, HTML, CSS e React.</li>
