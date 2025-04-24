@@ -15,6 +15,8 @@
   <li>🤝 Sempre aberto a novos desafios, colaborações criativas e conexões com pessoas que acreditam no poder da tecnologia transformadora.</li>
 </ul>
 
+---
+
 ## 🛠️ Tecnologias & Ferramentas  
 
 🚀 **Linguagens de Programação**  
@@ -26,6 +28,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="80" alt="TypeScript" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="80" alt="HTML5" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="80" alt="CSS3" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="80" alt="C#" />
 </p>
 
 🚀 **Frameworks e Ferramentas de Desenvolvimento**  
@@ -72,3 +75,17 @@
 </p>
 
 ---
+
+## 📱 Minhas Redes Sociais
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ylson-santos/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ylsonqueiroz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/YlsonSantos" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
