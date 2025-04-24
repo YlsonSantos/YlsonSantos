@@ -1,17 +1,74 @@
-<p align="center"> <img src="https://apexensino.com.br/wp-content/uploads/2020/06/aprender-a-programar.png" alt="Imagem de aprendizado de programação" style="display: block; margin: 0 auto;>
+<p align="center"> <img src="https://apexensino.com.br/wp-content/uploads/2020/06/aprender-a-programar.png" alt="Imagem de aprendizado de programação" style="display: block; margin: 0 auto;></p>
+                     
+--- 
+                     
+<h1 align="center"> 👩‍💻 Seja bem-vindo(a) ao meu GitHub! <h1/>
+<p align="center"><i>Biomédico | Desenvolvedor Full-Stack</i></p>
+
+<h2 style="font-size: 10px;">Olá! 👋 Sou o Ylson Santos, biomédico formado e estudante de Análise e Desenvolvimento de Sistemas na CESAR School</h2>
+
+<ul>
+  <li>💻 Expertise em: Desenvolvimento web com foco em front-end e back-end, usando tecnologias como Python, JavaScript, HTML, CSS e React.</li>
+  <li>🌱 Com projetos acadêmicos e pessoais já realizados, busco unir minha base científica à criação de experiências digitais significativas.</li>
+  <li>🌍 Interesses em: Tecnologia voltada para a educação, impacto social e conscientização financeira.</li>
+  <li>🔥 Entusiasta de boas práticas de código, aprendizado contínuo e da construção de sistemas que realmente façam a diferença.</li>
+  <li>🤝 Sempre aberto a novos desafios, colaborações criativas e conexões com pessoas que acreditam no poder da tecnologia transformadora.</li>
+</ul>
+
+## 🛠️ Tecnologias & Ferramentas  
+
+🚀 **Linguagens de Programação**  
+<p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="80" alt="Python" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="80" alt="JavaScript" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="80" alt="Java" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="80" alt="C" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="80" alt="TypeScript" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="80" alt="HTML5" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="80" alt="CSS3" />
 </p>
 
+🚀 **Frameworks e Ferramentas de Desenvolvimento**  
+<p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="80" alt="React" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="80" alt="Node.js" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="80" alt="Spring" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="80" alt="Tailwind"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="80" alt="Git" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="80" alt="GitHub" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="80" alt="Figma" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="80" alt="Canva" />
+</p>
 
-# 👩‍💻 Seja bem-vindo(a) ao meu GitHub!
+🚀 **Banco de Dados**  
+<p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="80" alt="MySQL" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="80" alt="PostgreSQL" />
+</p>
 
-**Biomédico** | Estudante de **Análise e Desenvolvimento de Sistemas**
+🚀 **Soft Skills**  
+<p>
+    Trabalho em equipe | Proatividade | Comunicação eficaz | Adaptabilidade | Gestão do tempo | Criatividade | Aprendizado contínuo
+</p>
 
 ---
 
-Olá! 👋 Sou o Ylson Santos, biomédico formado e atualmente estudante de Análise e Desenvolvimento de Sistemas na CESAR School, em transição para a área de tecnologia e apaixonado por desenvolver soluções digitais com propósito.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YlsonSantos&layout=compact&langs_count=20&theme=tokyonight" alt="Top linguagens do Github"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YlsonSantos&theme=tokyonight" alt="Estatísticas do Github"/>
+</div>
 
-💻 Expertise em: Desenvolvimento web com foco em front-end e back-end, usando tecnologias como Python, JavaScript, HTML, CSS e React.
-🌱 Com projetos acadêmicos e pessoais já realizados, busco unir minha base científica à criação de experiências digitais significativas.
-🌍 Interesses em: Tecnologia voltada para a educação, impacto social e conscientização financeira.
-🔥 Entusiasta de boas práticas de código, aprendizado contínuo e da construção de sistemas que realmente façam a diferença.
-🤝 Sempre aberto a novos desafios, colaborações criativas e conexões com pessoas que acreditam no poder da tecnologia transformadora.
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YlsonSantos/YlsonSantos/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YlsonSantos/YlsonSantos/output/pacman-contribution-graph.svg">
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/YlsonSantos/YlsonSantos/output/pacman-contribution-graph.svg">
+</picture>
+
+# 📊 Estatísticas do GitHub  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YlsonSantos&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+</p>
+
+---
