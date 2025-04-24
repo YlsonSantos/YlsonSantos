@@ -1,0 +1,22 @@
+name: Pacman Contribution Graph
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Generate Pacman contribution graph
+        run: |
+          curl -s https://raw.githubusercontent.com/YlsonSantos/YlsonSantos/main/output/pacman-contribution-graph.svg > pacman-contribution-graph.svg
+          git add pacman-contribution-graph.svg
+          git commit -m "Update pacman contribution graph"
+          git push
