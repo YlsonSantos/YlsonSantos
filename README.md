@@ -84,6 +84,9 @@
 ## 📱 Minhas Redes Sociais
 
 <p align="center">
+  <a href="https://portfolio-ylson.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-%23000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
+  </a>
   <a href="https://www.linkedin.com/in/ylson-santos/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
