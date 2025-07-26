@@ -13,7 +13,7 @@
 <h2 style="font-size: 10px;">Olá! 👋 Sou Ylson Santos</h2>
 
 <ul>
-  <li>🖥️ Habilidades em Desenvolvimento Full-Stack, usando tecnologias como Python, JavaScript, HTML, CSS, React, Java, etc.</li>
+  <li>🖥️ Habilidades em Desenvolvimento Full-Stack, usando tecnologias como Python, JavaScript, TypeScrip, Tailwind CSS, HTML, CSS, React, Java, etc.</li>
   <li>📚 Com projetos acadêmicos e pessoais já realizados, busco unir minha base científica à criação de experiências digitais significativas.</li>
   <li>🚀 Interesse em tecnologia com propósito: educação digital, impacto social e transformação de realidades através do conhecimento.</li>
   <li>💡 Entusiasta de boas práticas de código, aprendizado contínuo e da construção de sistemas que realmente façam a diferença.</li>
