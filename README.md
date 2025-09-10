@@ -12,7 +12,7 @@
 ### Sobre mim
 
 <ul>
-  <li>🖥️ Desenvolvedor com foco em **Front-end**, com experiência prática em projetos de empresas, utilizando tecnologias como React, Next.js e TypeScript.</li>
+  <li>🖥️ Desenvolvedor com foco emFront-end, com experiência prática em projetos de empresas, utilizando tecnologias como React, Next.js e TypeScript.</li>
   <li>📚 Minha formação em Biomedicina me proporciona uma base analítica e detalhista que aplico na resolução de problemas de programação.</li>
   <li>🚀 Tenho paixão por tecnologia com propósito, buscando criar soluções que gerem impacto social positivo, especialmente nas áreas de educação e saúde.</li>
   <li>💡 Focado em construir projetos com código limpo, boas práticas e sistemas que realmente façam a diferença.</li>
