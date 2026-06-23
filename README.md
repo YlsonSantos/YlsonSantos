@@ -1,5 +1,5 @@
 <h1 align="center"> 👩‍💻 Olá, sou Ylson Queiroz!</h1>
-<p align="center"><i>Programador Full Stack Developer | Mendix & Salesforce</i></p>
+<p align="center"><i>Programador Full Stack Developer | Mendix </i></p>
 
 ---
 
@@ -11,7 +11,7 @@ No dia a dia, trabalho em equipe integrado a times ágeis sob metodologias como 
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 🛠️ Tecnologias e ferramentas
 
 **Front-end**
 <p>
@@ -23,7 +23,7 @@ No dia a dia, trabalho em equipe integrado a times ágeis sob metodologias como 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="50" alt="Figma" />
 </p>
 
-**Back-end & Banco de Dados**
+**Back-end & Banco de dados**
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="50" alt="NestJS" />
@@ -31,14 +31,14 @@ No dia a dia, trabalho em equipe integrado a times ágeis sob metodologias como 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL" />
 </p>
 
-**Plataformas & Cloud**
+**Plataformas e Cloud**
 <p>
     <img src="https://img.shields.io/badge/Mendix-004B87?style=for-the-badge&logo=mendix&logoColor=white" height="40" alt="Mendix" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" height="50" alt="Salesforce" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="50" alt="AWS" />
 </p>
 
-**Ferramentas & Governança**
+**Ferramentas e Governança**
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="50" alt="Git" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="50" alt="GitHub" />
